@@ -1,1 +1,1 @@
-FROM eclipse-temurin:8-jdk-alpine
+FROM mysql:5.7.43
