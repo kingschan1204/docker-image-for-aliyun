@@ -1,7 +1,6 @@
 # docker-image-for-aliyun
-- `eclipse-temurin:17.0.13_11-jdk-alpine`  openjdk17镜像
-- `eclipse-temurin:21-jdk-alpine`  openjdk 21镜像
-- `eclipse-temurin:8-jdk-alpine`  openjdk8镜像
+- `mysql:5.7.43`  mysql 5.7.43镜像无漏洞
+
 
 
 ## docker hub
