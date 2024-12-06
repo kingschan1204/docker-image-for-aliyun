@@ -1,5 +1,6 @@
 # docker-image-for-aliyun
 - `mysql:5.7.43`  mysql 5.7.43镜像无漏洞
+- `mysql:8.0.25`  mysql 8.0.25镜像无漏洞
 
 
 
