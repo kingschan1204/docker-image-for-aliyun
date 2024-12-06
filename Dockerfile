@@ -1,1 +1,1 @@
-FROM redis:6.2.13
+FROM redis/redis-stack-server:6.2.6-v17-x86_64
