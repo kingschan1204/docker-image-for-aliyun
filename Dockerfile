@@ -1,1 +1,1 @@
-FROM eclipse-temurin:8-jdk-alpine
+FROM redis:7.2.1
