@@ -1,1 +1,1 @@
-FROM eclipse-temurin:8-jdk-alpine
+FROM dreamacro/clash:v1.18.0
