@@ -1,1 +1,1 @@
-FROM dreamacro/clash:v1.18.0
+FROM bitnami/clickhouse:24
