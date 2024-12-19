@@ -9,3 +9,6 @@ https://hub.docker.com/
 
 ## 步骤方法
 https://www.cnblogs.com/yinzhengjie/p/17471000.html
+
+## 阿里仓库
+https://cr.console.aliyun.com/cn-hangzhou/instance/repositories
