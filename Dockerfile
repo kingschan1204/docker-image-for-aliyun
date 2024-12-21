@@ -1,1 +1,1 @@
-FROM dreamacro/clash:v1.18.0
+FROM docker.io/kubernetesui/dashboard-auth:1.2.2
