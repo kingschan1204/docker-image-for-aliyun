@@ -4,6 +4,7 @@
 - docker.io/kubernetesui/dashboard-web:1.6.0
 - docker.io/kubernetesui/dashboard-metrics-scraper:1.2.1
 - kong/kubernetes-ingress-controller:3.1
+- kong:3.6
 
 
 
