@@ -1,1 +1,1 @@
-FROM docker.io/kubernetesui/dashboard-web:1.6.0
+FROM dashboard-metrics-scraper:1.2.1
