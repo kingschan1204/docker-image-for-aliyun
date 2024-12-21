@@ -1,1 +1,1 @@
-FROM docker.io/kubernetesui/dashboard-api:1.10.1
+FROM docker.io/kubernetesui/dashboard-web:1.6.0
